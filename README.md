@@ -48,3 +48,4 @@ a status w lewym górnym rogu to pokazuje.
 Pliki: `src/rules.js` (logika), `src/nimble.js` (klient Ollama), `src/main.js` (scena Phaser).
 Testy logiki: `npm test`.
 # test-jev-game
+# test-jev-game
